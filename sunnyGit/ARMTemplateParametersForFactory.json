@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "sunnyGit"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
