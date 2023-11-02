@@ -1,0 +1,9 @@
+{
+	"name": "sunnyGit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bc5a07cb-c484-4f26-9d9d-61a50035859c",
+		"tenantId": "f2c5b24e-edcf-45e9-bef9-e5548e647b08"
+	}
+}
